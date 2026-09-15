@@ -1,1 +1,7 @@
-data/ventas.csv
+data/raw/
+data/processed/
+data/external/
+output/figures/
+output/tables/
+__pycache__/
+*.pycgit
